@@ -61,4 +61,4 @@ When downloaded, there should be a folder named `"Game wiki"` placed next to the
 This game is a personal hobby project created for non-commercial purposes. I do not intend to profit from it, and it is not affiliated with, sponsored by, or endorsed by any third parties, companies, or organizations. Any characters, ideas, or elements inspired by existing works are respectfully acknowledged as their respective creators' property. This project is purely for personal enjoyment and creative expression. If you have concerns or questions regarding the content, please feel free to contact me via my email: <kimnguu2743@gmail.com>.
 
 # Misc.
-[I think this Hase Suns song is pretty good](https://music.youtube.com/watch?v=wIK6s6SGByI&si=uI5aDdNAHvkmoe3B).
+[I was listening to this Hase Suns song whilst writing this and I think the song is pretty peak](https://music.youtube.com/watch?v=wIK6s6SGByI&si=uI5aDdNAHvkmoe3B).
