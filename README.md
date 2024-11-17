@@ -31,12 +31,9 @@ Other stuff, you will know as you play.
 
 ![image](https://github.com/user-attachments/assets/d82bdebd-e825-470a-9da6-78f476664d1c)
 
-
-![sasas](https://github.com/user-attachments/assets/e0286f6c-6cfc-48b4-8d4a-cfde8e4493d7)
-
+![image](https://github.com/user-attachments/assets/b80ce634-8c4f-4d6d-9c3a-705b7dc39e8e)
 
 ![sasas](https://github.com/user-attachments/assets/b0d7af09-2672-4aef-a54a-b19efa5a5491)
-
 
 ![sas](https://github.com/user-attachments/assets/1a70110d-6c62-4f5e-8b17-e207a14d7028)
 
