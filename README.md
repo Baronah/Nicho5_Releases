@@ -1,4 +1,5 @@
 # Nicho 5
+
 A turn-based game that is heavily inspired by Arknights.
 
 To download, visit the **Releases** section or [click here](https://github.com/SatoriSimp/Nicho5_Releases/releases).
@@ -21,7 +22,7 @@ The game's base flow:
   <li>You fight them.</li>
 </ol>
 
-Other stuff, you will know as you play.
+Other stuff, you will gradually figure out as you play.
 
 # Screenshots
 
@@ -49,7 +50,7 @@ Other stuff, you will know as you play.
   + The majority of the game's assets (character sprites) were taken from [Arknight PRTS Wiki](https://prts.wiki/).
   + The in-game soundtracks and majority of the SFXs are by [Arknights - MSR](https://monster-siren.hypergryph.com/about).
   + Some images were taken from [The Noun Project](https://thenounproject.com/).
-  + Other assets I drawn myself using [Adobe Photoshop](https://www.adobe.com/).
+  + Other assets I drew myself using [Adobe Photoshop](https://www.adobe.com/).
   
 # Other resources
 When downloaded, there should be a folder named `"Game wiki"` placed next to the `"Game"` folder containing a `.html` file, which you can open with your browser. As the name suggests, that file contains (mostly) everything you need to know about this game.
