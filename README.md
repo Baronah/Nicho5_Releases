@@ -42,10 +42,10 @@ Other stuff, you will know as you play.
 
 ![Nicho5_OXqmVQ8MMO](https://github.com/user-attachments/assets/1be25221-6cd4-46b5-ab5e-c41274895f4b)
 
-# Requirements:
+# Requirements
 - Basic reading ability is required.<br>
 
-# Credits:
+# Credits
 - **Hugest credit:** This game is heavily influenced by [Arknights](https://www.arknights.global/), a free-to-play tactical RPG/tower defense mobile game developed by Chinese developer Hypergryph.
 - **Tech:** The game was made using [Unity Engine](https://unity.com/).
 - **Assets:**
@@ -54,11 +54,11 @@ Other stuff, you will know as you play.
   + Some images were taken from [The Noun Project](https://thenounproject.com/).
   + Other assets I drawn myself using [Adobe Photoshop](https://www.adobe.com/).
   
-# Other resources:
+# Other resources
 When downloaded, there should be a folder named `"Game wiki"` placed next to the `"Game"` folder containing a `.html` file, which you can open with your browser. As the name suggests, that file contains (mostly) everything you need to know about this game.
 
-# Disclaimer:
+# Disclaimer
 This game is a personal hobby project created for non-commercial purposes. I do not intend to profit from it, and it is not affiliated with, sponsored by, or endorsed by any third parties, companies, or organizations. Any characters, ideas, or elements inspired by existing works are respectfully acknowledged as their respective creators' property. This project is purely for personal enjoyment and creative expression. If you have concerns or questions regarding the content, please feel free to contact me via my email: <kimnguu2743@gmail.com>.
 
-# Misc.:
+# Misc.
 [I think this Hase Suns song is pretty good](https://music.youtube.com/watch?v=wIK6s6SGByI&si=uI5aDdNAHvkmoe3B).
