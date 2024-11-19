@@ -26,11 +26,11 @@ Other stuff, you will gradually figure out as you play.
 
 # Screenshots
 
-![Nicho5_dCvVyJHFlU](https://github.com/user-attachments/assets/a9a6a048-db9e-4db5-813b-6200ff579f32)
+![Nicho5_VEwdO064is](https://github.com/user-attachments/assets/73c8ab74-6880-4326-8d22-8f9aaf7c6a90)
 
 ![image](https://github.com/user-attachments/assets/346978dd-f2c6-4bc3-9d66-5d6dc18aa7e8)
 
-![image](https://github.com/user-attachments/assets/d82bdebd-e825-470a-9da6-78f476664d1c)
+![Nicho5_DO3BcD0tkE](https://github.com/user-attachments/assets/c01bcaff-3da2-46c7-9199-e0bf980acf11)
 
 ![image](https://github.com/user-attachments/assets/b80ce634-8c4f-4d6d-9c3a-705b7dc39e8e)
 
