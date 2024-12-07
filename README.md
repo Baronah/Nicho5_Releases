@@ -2,7 +2,7 @@
 
 A turn-based game that is heavily inspired by Arknights.
 
-To download, visit the **Releases** section or [click here](https://github.com/SatoriSimp/Nicho5_Releases/releases).
+To download, visit the [Releases](https://github.com/SatoriSimp/Nicho5_Releases/releases) section.
 
 I sometimes forget to update this, so to make sure you don't miss out on the latest version, [visit the game's itch.io page](https://bvcdnh.itch.io/nicho5) instead!
 
