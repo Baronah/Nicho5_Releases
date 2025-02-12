@@ -26,7 +26,7 @@ Other stuff, you will gradually figure out as you play.
 
 # Screenshots
 
-![Nicho5_VEwdO064is](https://github.com/user-attachments/assets/73c8ab74-6880-4326-8d22-8f9aaf7c6a90)
+![Nicho5_pxIgI8f94D](https://github.com/user-attachments/assets/aab8d693-c135-40ec-a544-bf52b053d349)
 
 ![image](https://github.com/user-attachments/assets/346978dd-f2c6-4bc3-9d66-5d6dc18aa7e8)
 
@@ -37,6 +37,8 @@ Other stuff, you will gradually figure out as you play.
 ![sasas](https://github.com/user-attachments/assets/b0d7af09-2672-4aef-a54a-b19efa5a5491)
 
 ![sas](https://github.com/user-attachments/assets/1a70110d-6c62-4f5e-8b17-e207a14d7028)
+
+![Nicho5_z6iMfsJNUM](https://github.com/user-attachments/assets/6901a8bc-3e2c-467c-b51b-25e1ddb786b6)
 
 ![Nicho5_OXqmVQ8MMO](https://github.com/user-attachments/assets/1be25221-6cd4-46b5-ab5e-c41274895f4b)
 
