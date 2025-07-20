@@ -53,9 +53,6 @@ Other stuff, you will gradually figure out as you play.
   + The in-game soundtracks and majority of the SFXs are by [Arknights - MSR](https://monster-siren.hypergryph.com/about).
   + Some images were taken from [The Noun Project](https://thenounproject.com/).
   + Other assets I drew myself using [Adobe Photoshop](https://www.adobe.com/).
-  
-# Other resources
-When downloaded, there should be a folder named `"Game wiki"` placed next to the `"Game"` folder containing a `.html` file, which you can open with your browser. As the name suggests, that file contains (mostly) everything you need to know about this game.
 
 # Disclaimer
 This game is a personal hobby project created for non-commercial purposes. I do not intend to profit from it, and it is not affiliated with, sponsored by, or endorsed by any third parties, companies, or organizations. Any characters, ideas, or elements inspired by existing works are respectfully acknowledged as their respective creators' property. This project is purely for personal enjoyment and creative expression. If you have concerns or questions regarding the content, please feel free to contact me via my email: <kimnguu2743@gmail.com>.
